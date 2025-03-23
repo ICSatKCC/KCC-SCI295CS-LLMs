@@ -4,6 +4,7 @@ Exploring Large Language Models with Ollama, OpenWebUI, Docker, and n8n
 
 Goal:
    The goal is to run a simple Large Language Model (LLM) on my personal laptop to better understand how it works. I plan to use Ollama, OpenWebUI, and Docker, and if time allows, I would also like to experiment with automation features using n8n.
+
 Material Resources:
    - Ollama
    - OpenWebUI
